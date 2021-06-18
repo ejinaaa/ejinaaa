@@ -1,7 +1,8 @@
 ### Hi I'm Eunjin👋
 ---
 
-🌱 I’m currently learning React and Typescript.
+- 🌱 I’m currently learning React and Typescript.
+- 📫 How to reach me: eunjink0423@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejinaaa&theme=flag-india&show_icons=true)
 
