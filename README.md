@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning React, Typescript...
 - 📫 How to reach me: eunjink0423@gmail.com
 
-Languages and tools:
-![](https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg)![](https://github.com/get-icon/geticon/raw/master/icons/javascript.svg)![](https://github.com/get-icon/geticon/raw/master/icons/react.svg)![](https://github.com/get-icon/geticon/raw/master/icons/redux.svg)![](https://github.com/get-icon/geticon/raw/master/icons/sass.svg)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejinaaa&theme=flag-india&show_icons=true)
 
