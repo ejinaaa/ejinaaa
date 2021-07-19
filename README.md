@@ -1,6 +1,6 @@
 ### Hi I'm Eunjin👋
 
-- 🌱 I’m currently learning React, Typescript...
+- 🌱 I’m currently learning React, Typescript, Next.js...
 - 📫 How to reach me: eunjink0423@gmail.com
 
 
